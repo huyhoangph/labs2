@@ -1,20 +1,9 @@
 # 20110370, Phùng Huy Hoàng
 # Lab 2: Buffer overflow attack
 ## I.Topic
-*Identify request line, header lines, blank line of HTTP request message, as well as the Status line, Header lines, blank line, Entity body of HTTP response message?*  
-Request line of HTTP request message: <span style="color:blue">GET / HTTP/1.1 </span><br>
-Header lines of HTTP request message (sample): <br>
-<span style="color:blue">Host: localhost:5050 <br>
-Connection: keep-alive <br>
-Cache-Control: max-age=0 <br>
-... (other headers) </span><br>
-Status line of HTTP response message: <span style="color:blue">HTTP/1.1 304 Not Modified </span><br>
-Header lines of HTTP response message (sample): 
-<span style="color:blue">Date: Mon, 15 Apr 2024 03:33:33 GMT <br>
-Server: Apache <br>
-Last-Modified: Mon, 18 Mar 2024 03:15:15 GMT <br>
-ETag: "1b6-613e6c4399123" <br>
-... (other headers) </span>
+*Inject code to delete file: file_del.asm is given on github*
+*Conduct attack on ctf.c*
+
 
 <span style="color:blue">Blank line of HTTP response message: The line immediately following the headers, separating headers from the entity body (which is empty in this case).</span>
 
