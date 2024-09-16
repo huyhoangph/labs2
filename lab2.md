@@ -2,7 +2,7 @@
 # Lab 2: Buffer overflow attack
 ## I.Topic
 *Inject code to delete file: file_del.asm is given on github*
-*Conduct attack on ctf.c*
+Conduct attack on ctf.c
 
 
 <span style="color:blue">Blank line of HTTP response message: The line immediately following the headers, separating headers from the entity body (which is empty in this case).</span>
