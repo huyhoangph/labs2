@@ -3,13 +3,14 @@
 ## I.Topic
 *Inject code to delete file: file_del.asm is given on github*
  And Conduct attack on ctf.c
+<span style="color:blue">This is the function myfunc </span>
 <img width="726" alt="Screenshot 2023-05-02 165126" src="https://github.com/huyhoangph/labs2/blob/master/assets/img/topic1.png">
+<span style="color:blue">This is the function main </span>
 <img width="726" alt="Screenshot 2023-05-02 165126" src="https://github.com/huyhoangph/labs2/blob/master/assets/img/topic2.png">
+<span style="color:blue">This is file_del.asm which is intended to delete a file in the current directory.</span>
 <img width="726" alt="Screenshot 2023-05-02 165126" src="https://github.com/huyhoangph/labs2/blob/master/assets/img/topic3.png">
 
-<span style="color:blue">Blank line of HTTP response message: The line immediately following the headers, separating headers from the entity body (which is empty in this case).</span>
-
-## 4.1.b
+## II. Implementation steps
 *Is your browser running HTTP version 1.0 or 1.1? What version of HTTP is the server running?*
 - Browser's HTTP version: HTTP/1.1 (as indicated by HTTP/1.1 in the request line) 
 - Server's HTTP version: HTTP/1.1 (as indicated by HTTP/1.1 in the status line)
