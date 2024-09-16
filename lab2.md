@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/05bcc2e7-3cef-4f89-b65e-b03013c4468c)# 20110370, Phùng Huy Hoàng
+# 20110370, Phùng Huy Hoàng
 # Lab 2: Buffer overflow attack
 ## I.Topic
 *Inject code to delete file: file_del.asm is given on github*
