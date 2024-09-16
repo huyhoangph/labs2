@@ -3,21 +3,24 @@
 ## I.Topic
 *Inject code to delete file: file_del.asm is given on github*
  And Conduct attack on ctf.c
-<span style="color:blue">This is the function myfunc </span>
-<img width="726" alt="Screenshot 2023-05-02 165126" src="https://github.com/huyhoangph/labs2/blob/master/assets/img/topic1.png">
-<span style="color:blue">This is the function main </span>
-<img width="726" alt="Screenshot 2023-05-02 165126" src="https://github.com/huyhoangph/labs2/blob/master/assets/img/topic2.png">
-<span style="color:blue">This is file_del.asm which is intended to delete a file in the current directory.</span>
-<img width="726" alt="Screenshot 2023-05-02 165126" src="https://github.com/huyhoangph/labs2/blob/master/assets/img/topic3.png">
+- This is the function myfunc 
+<img width="726" alt="" src="https://github.com/huyhoangph/labs2/blob/master/assets/img/topic1.png">
+
+- This is the function main 
+<img width="726" alt="" src="https://github.com/huyhoangph/labs2/blob/master/assets/img/topic2.png">
+
+- This is file_del.asm which is intended to delete a file in the current directory
+<img width="726" alt="" src="https://github.com/huyhoangph/labs2/blob/master/assets/img/topic3.png">
 
 ## II. Implementation steps
-*Is your browser running HTTP version 1.0 or 1.1? What version of HTTP is the server running?*
-- Browser's HTTP version: HTTP/1.1 (as indicated by HTTP/1.1 in the request line) 
-- Server's HTTP version: HTTP/1.1 (as indicated by HTTP/1.1 in the status line)
+*Run command to compile file ctf.c*
+- gcc -g ctf.c -o ctf.ou -fno-stack-protector  
+- <img width="726" alt="Screenshot 2023-05-02 165126" src="https://github.com/huyhoangph/labs2/blob/master/assets/img/biendich.png">
+
 # Task 4.2: Http conditional GET/Response Interaction
 - Information sniffed
 
-<img width="726" alt="Screenshot 2023-05-02 165126" src="https://github.com/quang-ute/myprojects/assets/57078914/5b008df9-130c-4501-90d9-fb09f9a89a35">
+<img width="726" alt="" src="https://github.com/quang-ute/myprojects/assets/57078914/5b008df9-130c-4501-90d9-fb09f9a89a35">
 
 ## 4.2.a
 *Inspect the contents of the first HTTP GET request from your browser to the server. Do you see an 
