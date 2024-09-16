@@ -4,6 +4,8 @@
 *Inject code to delete file: file_del.asm is given on github*
  And Conduct attack on ctf.c
 <img width="726" alt="Screenshot 2023-05-02 165126" src="https://github.com/huyhoangph/labs2/blob/master/assets/img/topic1.png">
+<img width="726" alt="Screenshot 2023-05-02 165126" src="https://github.com/huyhoangph/labs2/blob/master/assets/img/topic2.png">
+<img width="726" alt="Screenshot 2023-05-02 165126" src="https://github.com/huyhoangph/labs2/blob/master/assets/img/topic3.png">
 
 <span style="color:blue">Blank line of HTTP response message: The line immediately following the headers, separating headers from the entity body (which is empty in this case).</span>
 
