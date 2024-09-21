@@ -4,6 +4,7 @@
 *Inject code to delete file: file_del.asm is given on github*
  And Conduct attack on ctf.c
 - This is the function myfunc 
+
 ![](./assets//img/topic1.png)
 
 - This is the function main 
